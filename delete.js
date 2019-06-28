@@ -1,4 +1,5 @@
 var mysql = require('mysql');
+//hello be good
 
 var con = mysql.createConnection({
 	host: "localhost",

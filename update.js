@@ -9,8 +9,9 @@ var con = mysql.createConnection({
 
 con.connect(function(err) {
   if (err) throw err;
-  con.query("select * from employee1 where role = 'scientist'", function (err, result) {
+  var sql = "UPDATE employee1 SET name = 'rahman' WHERE name='Rahul1'";
+  con.query(sql, function (err, result) {
     if (err) throw err;
-    console.log(result);
+    console.log(result.affectedRows + " record(s) updated");
   });
 });

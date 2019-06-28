@@ -1,0 +1,68 @@
+ 33  git status
+   34  sudo apt-get install git
+   35  git-status
+   36  git status
+   37  git init
+   38  git status
+   39  git status
+   40  git init
+   41  git init
+   42  git status
+   43  git remote add origin https://github.com/Uvick/Node_Crud_Operation.git
+   44  git push origin master
+   45  git push origin master --no-verify
+   46  git push origin master
+   47  git branch -mv origin master
+   48  git remote add origin https://github.com/Uvick/Node_Crud_Operation.git
+   49  git push origin master
+   50  sudo git remote add origin https://github.com/Uvick/Node_Crud_Operation.git
+   51  git push origin master
+   52  cd..
+   53  cd.
+   54  cd
+   55  cd /Desktop/Node_Crud_Operation
+   56  cd /Desktop/
+   57  cd /Desktop
+   58  cd Desktop
+   59  git push master origin
+   60  git push master Node_Crud_Operation
+   61  git push Node_Crud_Operation origin
+   62  git remote add origin https://github.com/Uvick/Node_Crud_Operation.git
+   63  git push origin master
+   64  git branch -mv origin master
+   65  git init
+   66  git status
+   67  git remote add https://github.com/Uvick/crud.git
+   68  git remote add origin https://github.com/Uvick/crud.git
+   69  git push origin master
+   70  https://github.com/Uvick/crud.git
+   71  git init
+   72  git status
+   73  git remote add https://github.com/Uvick/crud.git
+   74  git remote add origin https://github.com/Uvick/crud.git
+   75  git push origin master
+   76  git push
+   77  git push -u origin master
+   78  git branch -mv origin master
+   79  sudo apt-get install git-core
+   80  git remote add origin https://github.com/Uvick/crud.git
+   81  ls
+   82  cd Desktop/crud/
+   83  git status
+   84  git add .
+   85  git commit -m "added"
+   86  git config --global user.email
+   87  git commit -m "added"
+   88  git branch
+   89  git push origin crud
+   90  git pull origin crud
+   91  git checkout -b crud
+   92  git branch
+   93  git pull origin crud
+   94  git push origin master
+   95  git push master origin
+   96  git branch
+   97  git push master origin
+   98  git branch
+   99  git push origin crud
+  100  git pull origin crud
